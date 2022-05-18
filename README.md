@@ -11,3 +11,12 @@ Today I Learned
 
 2. import requests 시 "import "requests" could not be resolved from source Pylance" 에러 메세지 해결 방법 
 https://stackoverflow.com/questions/68832892/why-cant-i-import-requests-in-vs-code
+
+## 파이썬 웹스크래핑
+
+## 파이썬 Flask
+https://opentutorials.org/course/4904/31303
+생활코딩: 단순 CRUD 구현 맛보기 (flask_opentutorials > servier.py)
+
+https://flask.palletsprojects.com/en/2.1.x/
+Flask 공식 문서 
