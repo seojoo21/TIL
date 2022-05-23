@@ -13,10 +13,12 @@ Today I Learned
 https://stackoverflow.com/questions/68832892/why-cant-i-import-requests-in-vs-code
 
 ## 파이썬 웹스크래핑
-1. 설치해야 하는 라이브러리: beautifulsoup4, lxml
+https://www.youtube.com/watch?v=yQ20jZwDjTE&t=6438s
+1. 설치해야 하는 라이브러리: beautifulsoup4, lxml, selenium
 - pip3 install beautifulsoup4 
 - pip3 install lxml 
-* lxml: 구문을 분석하는데 사용하는 parser 
+- pip3 install selenium
+** lxml: 구문을 분석하는데 사용하는 parser 
 ## 파이썬 Flask
 https://opentutorials.org/course/4904/31303
 생활코딩: 단순 CRUD 구현 맛보기 (flask_opentutorials > servier.py)

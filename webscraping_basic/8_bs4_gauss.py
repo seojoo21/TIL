@@ -13,6 +13,7 @@ soup = BeautifulSoup(res.text, "lxml")
 
 # 만화 제목 + 링크 가져오기 
 cartoons = soup.find_all("td", attrs={"class":"title"})
+# cartoons = soup.find_all("td", "title")
 for cartoon in cartoons:
     title = cartoon.a.get_text()
     link = "http://comic.naver.com" + cartoon.a["href"]
