@@ -1,3 +1,5 @@
 .csv
+.exe
+.exec
 webscraping_basic/requests_test.py
 webscraping_basic/regexp.py

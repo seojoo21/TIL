@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=yQ20jZwDjTE&t=6438s
 - pip3 install lxml 
 - pip3 install selenium
 ** lxml: 구문을 분석하는데 사용하는 parser 
+
+2. MacOS에서 chromedriver 경로 설정
+- 터미널에서 echo $PATH 입력하여 PATH 확인 후 해당 PATH 경로로 chromedriver.exec 이동
 ## 파이썬 Flask
 https://opentutorials.org/course/4904/31303
 생활코딩: 단순 CRUD 구현 맛보기 (flask_opentutorials > servier.py)
